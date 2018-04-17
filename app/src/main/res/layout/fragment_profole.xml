@@ -1,0 +1,57 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mecalogik.com.control.ProfoleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        android:background="@drawable/fragment_background">
+
+        <!-- TODO: Update blank fragment layout -->
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profile_image"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/user1" />
+
+        <Button
+            android:layout_margin="10dp"
+            android:id="@+id/logout_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/primary_color_btn"
+            android:textAllCaps="false"
+            android:text="Logout" />
+
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="20dp"
+            android:layout_marginTop="25dp"
+            android:text="Username" />
+
+        <Button
+            android:id="@+id/chat_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/logout_btn"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/primary_color_btn"
+            android:text="Chat"
+            android:textAllCaps="false" />
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "759030560924",
+    "firebase_url": "https://mecalogik-55d56.firebaseio.com",
+    "project_id": "mecalogik-55d56",
+    "storage_bucket": "mecalogik-55d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759030560924:android:f118cea186dff468",
+        "android_client_info": {
+          "package_name": "mecalogik.com.control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759030560924-e5goqj14h2ct4bfu33u390jc2domke4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.control",
+            "certificate_hash": "7e011b405ad2e8c08d69c7104888dc04014416b3"
+          }
+        },
+        {
+          "client_id": "759030560924-ashr8p8d2jgaqmdraqh8snm78uf36nsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhn39-F2mo3qrevmuBmT5B4gjQe6k-0P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759030560924-ashr8p8d2jgaqmdraqh8snm78uf36nsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759030560924:android:9dda81b5410b599e",
+        "android_client_info": {
+          "package_name": "mecalogik.com.notifica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759030560924-6gf2uihhel8372pl92ljsqimqge0q2tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.notifica",
+            "certificate_hash": "e3a2af7ab2efbad6d0208633e4320691bcd68d44"
+          }
+        },
+        {
+          "client_id": "759030560924-fp09l65663jqfvdkgaj0i1rdoiejq5dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mecalogik.com.notifica",
+            "certificate_hash": "98a91aa54a019ffa3ac1085139d61fe47d4866c0"
+          }
+        },
+        {
+          "client_id": "759030560924-ashr8p8d2jgaqmdraqh8snm78uf36nsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhn39-F2mo3qrevmuBmT5B4gjQe6k-0P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759030560924-ashr8p8d2jgaqmdraqh8snm78uf36nsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
